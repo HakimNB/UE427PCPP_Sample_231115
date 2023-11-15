@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\engine\427P\Engine\Source\Programs\Enterprise\Datasmith\DatasmithARCHICADExporter\UBTModules\DatasmithArchiCAD.Target.cs" />
+    <None Include="..\..\..\..\engine\427P\Engine\Source\Programs\Enterprise\Datasmith\DatasmithARCHICADExporter\UBTModules\DatasmithArchiCAD.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{AC672CAD-2950-49E4-8843-81E475C75557}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\engine\427P\Engine\Source\Programs\Enterprise\Datasmith\DatasmithARCHICADExporter\UBTModules\Private\DatasmithArchiCAD.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\engine\427P\Engine\Source\Programs\Enterprise\Datasmith\DatasmithARCHICADExporter\UBTModules\Private\DatasmithArchiCAD.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

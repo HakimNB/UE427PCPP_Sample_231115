@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE427PCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6566C81B-7933-490E-86D0-C71F79A78047}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE427PCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE427PCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9D7ED839-87B8-46C7-A671-31BE83351DA2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE427PCPP">
+      <UniqueIdentifier>{D21E2DBF-BC19-493F-B294-AA802116E831}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE427PCPP\UE427PCPP.Build.cs">
+      <Filter>Source\UE427PCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE427PCPP\UE427PCPP.cpp">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE427PCPP\UE427PCPP.h">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE427PCPP\UE427PCPPGameMode.cpp">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE427PCPP\UE427PCPPGameMode.h">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE427PCPP\UE427PCPPHud.cpp">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE427PCPP\UE427PCPPHud.h">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE427PCPP\UE427PCPPPawn.cpp">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE427PCPP\UE427PCPPPawn.h">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE427PCPP\UE427PCPPWheelFront.cpp">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE427PCPP\UE427PCPPWheelFront.h">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE427PCPP\UE427PCPPWheelRear.cpp">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE427PCPP\UE427PCPPWheelRear.h">
+      <Filter>Source\UE427PCPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

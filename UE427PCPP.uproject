@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{82F338D1-4C4B-2BF9-88C1-F1B1655B69CB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE427PCPP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PhysXVehicles",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		}
+	]
+}

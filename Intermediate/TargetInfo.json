@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE427PCPP",
+			"Path": "C:\\dev\\github\\unreal\\games\\UE427PCPP\\Source\\UE427PCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE427PCPPEditor",
+			"Path": "C:\\dev\\github\\unreal\\games\\UE427PCPP\\Source\\UE427PCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

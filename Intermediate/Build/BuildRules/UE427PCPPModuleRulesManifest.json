@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\dev\\github\\unreal\\games\\UE427PCPP\\Source\\UE427PCPP\\UE427PCPP.Build.cs",
+		"C:\\dev\\github\\unreal\\games\\UE427PCPP\\Source\\UE427PCPP.Target.cs",
+		"C:\\dev\\github\\unreal\\games\\UE427PCPP\\Source\\UE427PCPPEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
